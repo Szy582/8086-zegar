@@ -16,10 +16,7 @@ petla:
 koniec:
 	mov ax,4c00h
 	int 21h
-	ret
-	
-	
-	
+
 
 tekst	db "b - konczy program$"
 
